@@ -25,7 +25,7 @@
 
 ## 软件架构
 
-> 技术交流Q群： 566512359
+> 技术交流Q群： 869292399
 
 Vue、Spring Cloud Alibaba 2.2.5.RELEASE、Spring Cloud Hoxton.SR11、Nacos、Sentinel、
 Nepxion、Mybatis-Plus、多租户、灰度、Oauth2.0、Spring Security、Redis、Mysql、MongoDB、
